@@ -83,4 +83,8 @@ class NumberSeries{
     static help():void{
         console.log("Elérhető műveletek: sum, multiplier, mode, print");
     }
+
+    static rand(max: number): number{
+        return Math.floor(Math.random()*max+1)
+    }
 }
