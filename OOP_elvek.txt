@@ -1,0 +1,13 @@
+***********************************************************************************************************************
+Egységbezárás: (encapsulation) Az egyed (objektum) egységbe fogja (a classon keresztül) a kégességeit (metódusait)
+és a tulajdonságait (attribútum, adatmező) + Adatrejtés (private , protected , public(default))
+***********************************************************************************************************************
+Absztrakció: csak a lényeges tulajdonságokat jelenítünk meg.
+
+***********************************************************************************************************************
+Öröklés: Egy adott osztály minden képességét, és tulajdonságát átveheti (örökölheti) egy az adott osztályból (extends kulcsszóval) 
+gyermek vagy leszármazott osztály.  
+
+***********************************************************************************************************************
+Poliformizmus: (sokoldalúság) A leszármazott osztály az ősosztály egyes metódusait azonos névvel, de más működési logikával 
+felülírhatja. (override)
